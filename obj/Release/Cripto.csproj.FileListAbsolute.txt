@@ -1,0 +1,10 @@
+C:\Users\alfer\source\repos\Cripto\bin\Release\Cripto.exe.config
+C:\Users\alfer\source\repos\Cripto\bin\Release\Cripto.exe
+C:\Users\alfer\source\repos\Cripto\bin\Release\Cripto.pdb
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.Form1.resources
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.Properties.Resources.resources
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.csproj.GenerateResource.cache
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.csproj.CoreCompileInputs.cache
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.exe
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.pdb
+C:\Users\alfer\source\repos\Cripto\obj\Release\Cripto.csproj.AssemblyReference.cache
